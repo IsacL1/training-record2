@@ -1,0 +1,51 @@
+@import '~bootstrap/scss/bootstrap';
+$timing-function : cubic-bezier(0.190, 1.000, 0.220, 1.000);
+$nav-width-desktop : 40em;
+$nav-width-mobile : 25em;
+$nav-item-nb : 6;
+
+// main body
+main {
+    overflow: hidden;
+
+    .title {
+        color: yellow;
+    }
+
+    // .content {
+    // 	transform: translate3d(0, 0, 0);
+    // 	/* material acceleration */
+    // 	will-change: transform, filter;
+    // }
+
+    .container {
+        overflow-y: auto;
+
+        .table {
+            margin: center;
+            text-align: center;
+            border: 1px solid black;
+            column-width: auto;
+            background-color: #3dd8db;
+
+            .table-head {
+                    position: sticky;
+                    top: 0;
+                    z-index: 1;
+                    background-color: #f0f0f0;
+                }
+            
+
+            .table-body {
+                overflow: auto;
+            }
+        }
+
+        .sort-button {
+            padding: 0% 10% 0% 10%;
+            display: inline-block;
+            border: none;
+            background-color: #3dd8db
+        }
+    }
+}

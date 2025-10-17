@@ -1,0 +1,58 @@
+[
+  {
+    "locationId": "1",
+    "location": "VP",
+    "locationType": "Outdoor",
+    "floorType": "Hard floor",
+    "locationNotes": "Victoria Park"
+  },
+  {
+    "locationId": "2",
+    "location": "TLPR",
+    "locationType": "Outdoor",
+    "floorType": "Hard floor",
+    "locationNotes": "Tai Lin Pai Road"
+  },
+  {
+    "locationId": "3",
+    "location": "TLPR",
+    "locationType": "Outdoor",
+    "floorType": "Wax",
+    "locationNotes": "Tai Lin Pai Road"
+  },
+  {
+    "locationId": "4",
+    "location": "TLPR",
+    "locationType": "Outdoor",
+    "floorType": "Pad",
+    "locationNotes": "Tai Lin Pai Road"
+  },
+  {
+    "locationId": "5",
+    "location": "TWW",
+    "locationType": "Outdoor",
+    "floorType": "Pad",
+    "locationNotes": "Tusen Wan West"
+  },
+  {
+    "locationId": "6",
+    "location": "TWW",
+    "locationType": "Outdoor",
+    "floorType": "Plastric",
+    "locationNotes": "Tusen Wan West"
+  },
+  {
+    "locationId": "7",
+    "location": "TWW",
+    "locationType": "Outdoor",
+    "floorType": "Hard floor",
+    "locationNotes": "Tusen Wan West"
+  },
+  {
+    "locationId": "8",
+    "location": "MB",
+    "locationType": "Indoor",
+    "floorType": "Plastic",
+    "locationNotes": "Meagabox"
+  }
+]

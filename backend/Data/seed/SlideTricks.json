@@ -1,0 +1,1046 @@
+[
+    {
+      "sequence": 1,
+      "trickId": "vtt",
+      "trickName": "V toe toe",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 2,
+      "trickId": "xeshh",
+      "trickName": "Cross Ernsui heel heel",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 3,
+      "trickId": "xesht",
+      "trickName": "Cross Ernsui heel toe",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 4,
+      "trickId": "xestt",
+      "trickName": "Cross Ernsui toe toe",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 5,
+      "trickId": "xesh",
+      "trickName": "Cross Ernsui heel",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 6,
+      "trickId": "xest",
+      "trickName": "Cross Ernsui toe",
+      "trickFamily": "1",
+      "trickLevel": "A",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 7,
+      "trickId": "xes4",
+      "trickName": "Cross Ernsui 4 wheels",
+      "trickFamily": "1",
+      "trickLevel": "B",
+      "trickSubLevel": 15,
+      "description": ""
+    },
+    {
+      "sequence": 8,
+      "trickId": "eshh",
+      "trickName": "Ernsui heel heel",
+      "trickFamily": "1",
+      "trickLevel": "B",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 9,
+      "trickId": "esth",
+      "trickName": "Ernsui toe heel",
+      "trickFamily": "1",
+      "trickLevel": "B",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 10,
+      "trickId": "esht",
+      "trickName": "Ernsui heel toe",
+      "trickFamily": "1",
+      "trickLevel": "B",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 11,
+      "trickId": "estt",
+      "trickName": "Ernsui toe toe",
+      "trickFamily": "1",
+      "trickLevel": "B",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 12,
+      "trickId": "es4",
+      "trickName": "Ernsui 4 wheels",
+      "trickFamily": "1",
+      "trickLevel": "C",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 13,
+      "trickId": "syhh",
+      "trickName": "Soyale heel heel",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 14,
+      "trickId": "syht",
+      "trickName": "Soyale heel toe",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 15,
+      "trickId": "syth",
+      "trickName": "Soyale toe heel",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 16,
+      "trickId": "sytt",
+      "trickName": "Soyale toe toe",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 17,
+      "trickId": "syh",
+      "trickName": "Soyale heel",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 18,
+      "trickId": "syt",
+      "trickName": "Soyale toe",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 19,
+      "trickId": "sy4",
+      "trickName": "Soyale 4 wheels",
+      "trickFamily": "1",
+      "trickLevel": "D",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 20,
+      "trickId": "sy8",
+      "trickName": "Soyale 8 wheels",
+      "trickFamily": "1",
+      "trickLevel": "E",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 21,
+      "trickId": "cbhh",
+      "trickName": "Cowboy heel heel",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 22,
+      "trickId": "cbtt",
+      "trickName": "Cowboy toe toe",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 23,
+      "trickId": "cbth",
+      "trickName": "Cowboy toe heel",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 24,
+      "trickId": "cbht",
+      "trickName": "Cowboy heel toe",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 25,
+      "trickId": "cb8",
+      "trickName": "Cowboy 8 wheels",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 26,
+      "trickId": "bst",
+      "trickName": "Backslide toe",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 27,
+      "trickId": "bsh",
+      "trickName": "Backslide heel",
+      "trickFamily": "2",
+      "trickLevel": "A",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 28,
+      "trickId": "bs4",
+      "trickName": "Backslide 4 wheels",
+      "trickFamily": "2",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 29,
+      "trickId": "xadth",
+      "trickName": "Cross Acid toe heel",
+      "trickFamily": "2",
+      "trickLevel": "C",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 30,
+      "trickId": "xadhh",
+      "trickName": "Cross Acid heel heel",
+      "trickFamily": "2",
+      "trickLevel": "C",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 31,
+      "trickId": "xadht",
+      "trickName": "Cross Acid heel toe",
+      "trickFamily": "2",
+      "trickLevel": "C",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 32,
+      "trickId": "xadtt",
+      "trickName": "Cross Acid toe toe",
+      "trickFamily": "2",
+      "trickLevel": "C",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 33,
+      "trickId": "brht",
+      "trickName": "Barrow heel toe",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 34,
+      "trickId": "brth",
+      "trickName": "Barrow toe heel",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 35,
+      "trickId": "brth",
+      "trickName": "Barrow toe",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 36,
+      "trickId": "brh",
+      "trickName": "Barrow heel",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 37,
+      "trickId": "br4",
+      "trickName": "Barrow 4 wheels",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 38,
+      "trickId": "xadt",
+      "trickName": "Cross Acid toe",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 39,
+      "trickId": "xadh",
+      "trickName": "Cross Acid heel",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 40,
+      "trickId": "adth",
+      "trickName": "Acid toe heel",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 41,
+      "trickId": "adht",
+      "trickName": "Acid heel toe",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 42,
+      "trickId": "adtt",
+      "trickName": "Acid toe toe",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 43,
+      "trickId": "adt4",
+      "trickName": "Acid toe 4",
+      "trickFamily": "2",
+      "trickLevel": "D",
+      "trickSubLevel": 1,
+      "description": ""
+    },
+    {
+      "sequence": 44,
+      "trickId": "br8",
+      "trickName": "Barrow 8 wheels",
+      "trickFamily": "2",
+      "trickLevel": "E",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 45,
+      "trickId": "xad8",
+      "trickName": "Cross Acid 8 wheels",
+      "trickFamily": "2",
+      "trickLevel": "E",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 46,
+      "trickId": "adt",
+      "trickName": "Acid toe",
+      "trickFamily": "2",
+      "trickLevel": "E",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 47,
+      "trickId": "adht",
+      "trickName": "Acid heel",
+      "trickFamily": "2",
+      "trickLevel": "E",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 48,
+      "trickId": "ad4",
+      "trickName": "Acid 4 wheels",
+      "trickFamily": "2",
+      "trickLevel": "E",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 49,
+      "trickId": "8xhh",
+      "trickName": "8 Cross heel heel",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 50,
+      "trickId": "8xtt",
+      "trickName": "8 Cross toe toe",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 51,
+      "trickId": "8xth",
+      "trickName": "8 Cross toe heel",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 52,
+      "trickId": "8x8",
+      "trickName": "8 Cross 8 wheels",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 53,
+      "trickId": "xufohh",
+      "trickName": "Cross UFO heel heel",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 54,
+      "trickId": "xufott",
+      "trickName": "Cross UFO toe toe",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 55,
+      "trickId": "xufoth",
+      "trickName": "Cross UFO toe heel",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 56,
+      "trickId": "xufoht",
+      "trickName": "Cross UFO heel toe",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 57,
+      "trickId": "xufo8",
+      "trickName": "Cross UFO 8 wheels",
+      "trickFamily": "3",
+      "trickLevel": "A",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 58,
+      "trickId": "egtt",
+      "trickName": "Eagle toe toe",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 15,
+      "description": ""
+    },
+    {
+      "sequence": 59,
+      "trickId": "egth",
+      "trickName": "Eagle toe heel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 14,
+      "description": ""
+    },
+    {
+      "sequence": 60,
+      "trickId": "eg8",
+      "trickName": "Eagle 8 wheels",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 13,
+      "description": ""
+    },
+    {
+      "sequence": 61,
+      "trickId": "eghh",
+      "trickName": "Eagle heel heel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 12,
+      "description": ""
+    },
+    {
+      "sequence": 62,
+      "trickId": "ufosphh",
+      "trickName": "UFO special heel heel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 11,
+      "description": ""
+    },
+    {
+      "sequence": 63,
+      "trickId": "ufosptt",
+      "trickName": "UFO special toe toe",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 64,
+      "trickId": "ufospth",
+      "trickName": "UFO special toe hel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 65,
+      "trickId": "ufospht",
+      "trickName": "UFO special heel toe",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 66,
+      "trickId": "ufott",
+      "trickName": "UFO toe toe",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 67,
+      "trickId": "ufoth",
+      "trickName": "UFO toe heel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 68,
+      "trickId": "ufohh",
+      "trickName": "UFO heel heel",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 69,
+      "trickId": "ufoht",
+      "trickName": "UFO heel toe",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 70,
+      "trickId": "ufosp8",
+      "trickName": "UFO special 8 wheels",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 71,
+      "trickId": "ufo8",
+      "trickName": "UFO 8 wheels",
+      "trickFamily": "3",
+      "trickLevel": "B",
+      "trickSubLevel": 1,
+      "description": ""
+    },
+    {
+      "sequence": 72,
+      "trickId": "fsh",
+      "trickName": "Fastslide heel",
+      "trickFamily": "4",
+      "trickLevel": "A",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 73,
+      "trickId": "fst",
+      "trickName": "Fastslide toe",
+      "trickFamily": "4",
+      "trickLevel": "A",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 74,
+      "trickId": "fs4",
+      "trickName": "Fastslide 4 wheels",
+      "trickFamily": "4",
+      "trickLevel": "B",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 75,
+      "trickId": "mgtt",
+      "trickName": "Magic toe toe",
+      "trickFamily": "4",
+      "trickLevel": "B",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 76,
+      "trickId": "mghh",
+      "trickName": "Magic heel heel",
+      "trickFamily": "4",
+      "trickLevel": "B",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 77,
+      "trickId": "mgth",
+      "trickName": "Magic toe heel",
+      "trickFamily": "4",
+      "trickLevel": "B",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 78,
+      "trickId": "mght",
+      "trickName": "Magic heel toe",
+      "trickFamily": "4",
+      "trickLevel": "B",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 79,
+      "trickId": "fwh",
+      "trickName": "Fastwheel heel",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 80,
+      "trickId": "fwt",
+      "trickName": "Fastwheel toe",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 81,
+      "trickId": "fwhh",
+      "trickName": "Fastwheel heel heel",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 82,
+      "trickId": "fwtt",
+      "trickName": "Fastwheel toe toe",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 83,
+      "trickId": "fwth",
+      "trickName": "Fastwheel toe heel",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 84,
+      "trickId": "fwht",
+      "trickName": "Fastwheel heel toe",
+      "trickFamily": "4",
+      "trickLevel": "C",
+      "trickSubLevel": 1,
+      "description": ""
+    },
+    {
+      "sequence": 85,
+      "trickId": "mg8",
+      "trickName": "Magic 8 wheels",
+      "trickFamily": "4",
+      "trickLevel": "D",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 86,
+      "trickId": "fw4h",
+      "trickName": "Fastwheel 4 wheels heel",
+      "trickFamily": "4",
+      "trickLevel": "D",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 87,
+      "trickId": "fw4t",
+      "trickName": "Fastwheel 4 wheels toe",
+      "trickFamily": "4",
+      "trickLevel": "D",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 88,
+      "trickId": "pst",
+      "trickName": "Powerslide toe",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 10,
+      "description": ""
+    },
+    {
+      "sequence": 89,
+      "trickId": "psh",
+      "trickName": "Powerslide heel",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 90,
+      "trickId": "pstt",
+      "trickName": "Powerslide toe toe",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 91,
+      "trickId": "pshh",
+      "trickName": "Powerslide heel heel",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 92,
+      "trickId": "psht",
+      "trickName": "Powerslide heel toe",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 93,
+      "trickId": "sot",
+      "trickName": "Soul toe",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 94,
+      "trickId": "soh",
+      "trickName": "Soul heel",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 95,
+      "trickId": "so4",
+      "trickName": "Soul 4 wheels",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 96,
+      "trickId": "ps4",
+      "trickName": "Powerslide 4 wheels",
+      "trickFamily": "4",
+      "trickLevel": "E",
+      "trickSubLevel": 1,
+      "description": ""
+    },
+    {
+      "sequence": 97,
+      "trickId": "cphh",
+      "trickName": "Cross Parallel heel heel",
+      "trickFamily": "5",
+      "trickLevel": "A",
+      "trickSubLevel": 3,
+      "description": ""
+    },
+    {
+      "sequence": 98,
+      "trickId": "cpth",
+      "trickName": "Cross Parallel toe heel",
+      "trickFamily": "5",
+      "trickLevel": "A",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 99,
+      "trickId": "cpht",
+      "trickName": "Cross Parallel heel toe",
+      "trickFamily": "5",
+      "trickLevel": "A",
+      "trickSubLevel": 2,
+      "description": ""
+    },
+    {
+      "sequence": 100,
+      "trickId": "cptt",
+      "trickName": "Cross Parallel toe toe",
+      "trickFamily": "5",
+      "trickLevel": "A",
+      "trickSubLevel": 1,
+      "description": ""
+    },
+    {
+      "sequence": 101,
+      "trickId": "uthh",
+      "trickName": "Unity heel heel",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 102,
+      "trickId": "uttt",
+      "trickName": "Unity toe toe",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 103,
+      "trickId": "utth",
+      "trickName": "Unity toe heel",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 104,
+      "trickId": "utht",
+      "trickName": "Unity heel toe",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 105,
+      "trickId": "sahh",
+      "trickName": "Savannah heel heel",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 9,
+      "description": ""
+    },
+    {
+      "sequence": 106,
+      "trickId": "satt",
+      "trickName": "Savannah toe toe",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 8,
+      "description": ""
+    },
+    {
+      "sequence": 107,
+      "trickId": "sath",
+      "trickName": "Savannah toe heel",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 108,
+      "trickId": "saht",
+      "trickName": "Savannah heel toe",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 109,
+      "trickId": "cp8",
+      "trickName": "Cross Parallel 8 wheels",
+      "trickFamily": "5",
+      "trickLevel": "B",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 110,
+      "trickId": "prtt",
+      "trickName": "Parallel toe toe",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 7,
+      "description": ""
+    },
+    {
+      "sequence": 111,
+      "trickId": "prht",
+      "trickName": "Parallel heel toe",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 112,
+      "trickId": "prth",
+      "trickName": "Parallel toe heel",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 6,
+      "description": ""
+    },
+    {
+      "sequence": 113,
+      "trickId": "prhh",
+      "trickName": "Parallel heel heel",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 5,
+      "description": ""
+    },
+    {
+      "sequence": 114,
+      "trickId": "ut8",
+      "trickName": "Unity 8 wheels",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 115,
+      "trickId": "sa8",
+      "trickName": "Savannah 8 wheels",
+      "trickFamily": "5",
+      "trickLevel": "C",
+      "trickSubLevel": 4,
+      "description": ""
+    },
+    {
+      "sequence": 116,
+      "trickId": "pr8",
+      "trickName": "Parallel 8 wheels",
+      "trickFamily": "5",
+      "trickLevel": "D",
+      "trickSubLevel": 7,
+      "description": ""
+    }
+  ]

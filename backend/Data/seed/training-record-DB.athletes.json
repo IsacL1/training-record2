@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "675fe3e714d6d445c0a67576"
+  },
+  "athleteName": "Chan Hiu Yan",
+  "SSRecords": [
+    {
+      "date": "2024-11-23",
+      "side": "L",
+      "step": 8,
+      "time": 5.32,
+      "missedCone": 0,
+      "kickCone": 5,
+      "DQ": true,
+      "endLine": false,
+      "result": 6.32,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "L",
+      "step": 9,
+      "time": 5.5,
+      "missedCone": 0,
+      "kickCone": 5,
+      "DQ": true,
+      "endLine": false,
+      "result": 6.5,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "L",
+      "step": 9,
+      "time": 5.24,
+      "missedCone": 0,
+      "kickCone": 3,
+      "DQ": false,
+      "endLine": false,
+      "result": 5.84,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "R",
+      "step": 9,
+      "time": 5.24,
+      "missedCone": 1,
+      "kickCone": 4,
+      "DQ": true,
+      "endLine": false,
+      "result": 6.24,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "R",
+      "step": 9,
+      "time": 5.17,
+      "missedCone": 0,
+      "kickCone": 1,
+      "DQ": false,
+      "endLine": false,
+      "result": 5.37,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "R",
+      "step": 9,
+      "time": 5.04,
+      "missedCone": 0,
+      "kickCone": 1,
+      "DQ": false,
+      "endLine": false,
+      "result": 5.24,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "R",
+      "step": 9,
+      "time": 5.55,
+      "missedCone": 0,
+      "kickCone": 2,
+      "DQ": false,
+      "endLine": false,
+      "result": 5.95,
+      "notes": ""
+    },
+    {
+      "date": "2024-11-23",
+      "side": "R",
+      "step": 9,
+      "time": 5.7,
+      "missedCone": 5,
+      "kickCone": 2,
+      "DQ": true,
+      "endLine": false,
+      "result": 5.95,
+      "notes": ""
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675fe3e714d6d445c0a67577"
+  },
+  "athleteName": "Ko Cheuk Ying",
+  "SSRecords": []
+}]

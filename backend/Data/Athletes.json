@@ -1,0 +1,128 @@
+{
+	"Athletes": [
+	  {
+		"AthleteName": "Chan Hiu Yan",
+		"athletesCurrentAbilityValue": [],
+		"SSRecords": [
+		  {
+			"date": "2024-11-23",
+			"side": "L",
+			"step": 8,
+			"time": 5.320,
+			"missedCone": 0,
+			"kickCone": 5,
+			"DQ": true,
+			"endLine": false,
+			"result": 6.320,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "L",
+			"step": 9,
+			"time": 5.500,
+			"missedCone": 0,
+			"kickCone": 5,
+			"DQ": true,
+			"endLine": false,
+			"result": 6.500,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "L",
+			"step": 9,
+			"time": 5.240,
+			"missedCone": 0,
+			"kickCone": 3,
+			"DQ": false,
+			"endLine": false,
+			"result": 5.840,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "R",
+			"step": 9,
+			"time": 5.240,
+			"missedCone": 1,
+			"kickCone": 4,
+			"DQ": true,
+			"endLine": false,
+			"result": 6.240,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "R",
+			"step": 9,
+			"time": 5.170,
+			"missedCone": 0,
+			"kickCone": 1,
+			"DQ": false,
+			"endLine": false,
+			"result": 5.370,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "R",
+			"step": 9,
+			"time": 5.040,
+			"missedCone": 0,
+			"kickCone": 1,
+			"DQ": false,
+			"endLine": false,
+			"result": 5.240,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "R",
+			"step": 9,
+			"time": 5.550,
+			"missedCone": 0,
+			"kickCone": 2,
+			"DQ": false,
+			"endLine": false,
+			"result": 5.950,
+			"notes": ""
+		  },
+		  {
+			"date": "2024-11-23",
+			"side": "R",
+			"step": 9,
+			"time": 5.700,
+			"missedCone": 5,
+			"kickCone": 2,
+			"DQ": true,
+			"endLine": false,
+			"result": 5.950,
+			"notes": ""
+		  }
+		],
+		"CSrecords": [],
+		"slideRecords": [],
+		"offSkateExercise": [],
+		"goals": []
+	  },
+	  {
+		"AthleteName": "Ko Cheuk Ying",
+		"athletesCurrentAbilityValue": [],
+		"SSRecords": [],
+		"CSRecords": [],
+		"slideRecords": [],
+		"offSkateExercise": [],
+		"goals": []
+	  },
+	  {
+		"AthleteName": "Liu Lok Yee",
+		"athletesCurrentAbilityValue": [],
+		"SSRecords": [],
+		"CSRecords": [],
+		"slideRecords": [],
+		"offSkateExercise": [],
+		"goals": []
+	  }
+	]
+  }

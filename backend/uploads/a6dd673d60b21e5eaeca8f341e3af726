@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "674981a7a360964e2ac4fdef"
+  },
+  "athletesId": "S001",
+  "athletesName": "Chan Hiu Yan",
+  "bod": {
+    "$date": "2009-09-14T00:00:00.000Z"
+  },
+  "phone": "57102210",
+  "password": "",
+  "addr": "Tung Chung",
+  "HKID4digit": ""
+},
+{
+  "_id": {
+    "$oid": "674981a7a360964e2ac4fdf0"
+  },
+  "athletesId": "S002",
+  "athletesName": "Ko Cheuk Ying",
+  "bod": {
+    "$date": "2015-12-02T00:00:00.000Z"
+  },
+  "phone": "67922594",
+  "password": "",
+  "addr": "Tsuen Wan",
+  "HKID4digit": ""
+},
+{
+  "_id": {
+    "$oid": "674981a7a360964e2ac4fdf1"
+  },
+  "athletesId": "S003",
+  "athletesName": "Liu Lok Yee",
+  "bod": {
+    "$date": "2014-12-02T00:00:00.000Z"
+  },
+  "phone": "97232027",
+  "password": "",
+  "addr": "Tai Wai",
+  "HKID4digit": ""
+},
+{
+  "_id": {
+    "$oid": "67510ef9cbbebf8e7b9fa101"
+  },
+  "athletesId": "S004",
+  "athleteName": "鄭若嵐",
+  "bod": {
+    "$date": "2013-12-09T00:00:00.000Z"
+  },
+  "phone": "62896044",
+  "password": "",
+  "addr": "Nam Cheong",
+  "HKID4digit": "A123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67510f53cbbebf8e7b9fa103"
+  },
+  "athletesId": "S005",
+  "athleteName": "To Sum Nok",
+  "bod": {
+    "$date": "2024-12-05T02:24:57.348Z"
+  },
+  "phone": "96103713",
+  "password": "",
+  "addr": "Nam Cheong",
+  "HKID4digit": "A123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67510fbbcbbebf8e7b9fa106"
+  },
+  "athletesId": "S006",
+  "athleteName": "Cheuk Laam",
+  "bod": {
+    "$date": "2013-12-05T00:00:00.000Z"
+  },
+  "phone": "96137751",
+  "password": "",
+  "addr": "Choi Hung",
+  "HKID4digit": "A123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67510ff6cbbebf8e7b9fa108"
+  },
+  "athletesId": "S007",
+  "athleteName": "Cham Sze Chai",
+  "bod": {
+    "$date": "2014-12-28T00:00:00.000Z"
+  },
+  "phone": "61716671",
+  "password": "",
+  "addr": "N/A",
+  "HKID4digit": "A123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67511068cbbebf8e7b9fa10a"
+  },
+  "athletesId": "S008",
+  "athleteName": "Chan Chinn Yau",
+  "bod": {
+    "$date": "2019-12-05T00:00:00.000Z"
+  },
+  "phone": "67681992",
+  "password": "",
+  "addr": "Cheung Sha Wan",
+  "HKID4digit": "A123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751108ecbbebf8e7b9fa10c"
+  },
+  "athletesId": "S009",
+  "athleteName": "彭梓征",
+  "bod": {
+    "$date": "2024-12-05T02:31:04.337Z"
+  },
+  "phone": "56062380",
+  "password": "",
+  "addr": "Sha Tin",
+  "HKID4digit": "A123",
+  "__v": 0
+}]

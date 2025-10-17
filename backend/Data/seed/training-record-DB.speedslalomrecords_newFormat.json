@@ -1,0 +1,943 @@
+[
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "L",
+    "step": 8,
+    "time": 5.32,
+    "missedCone": 0,
+    "kickedCone": 5,
+    "DQ": true,
+    "endLine": false,
+    "SSResult": 6.32,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "L",
+    "step": 9,
+    "time": 5.5,
+    "missedCone": 0,
+    "kickedCone": 5,
+    "DQ": true,
+    "endLine": false,
+    "SSResult": 6.5,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "L",
+    "step": 9,
+    "time": 5.24,
+    "missedCone": 0,
+    "kickedCone": 3,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.84,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "R",
+    "step": 9,
+    "time": 5.24,
+    "missedCone": 1,
+    "kickedCone": 4,
+    "DQ": true,
+    "endLine": false,
+    "SSResult": 6.24,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "R",
+    "step": 9,
+    "time": 5.17,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.37,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "R",
+    "step": 9,
+    "time": 5.04,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.24,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "R",
+    "step": 9,
+    "time": 5.55,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.95,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": "2024-11-23",
+    "side": "R",
+    "step": 9,
+    "time": 5.7,
+    "missedCone": 5,
+    "kickedCone": 2,
+    "DQ": true,
+    "endLine": false,
+    "SSResult": 5.95,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.499,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8b9ae4c39c215c7b38e6"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.426,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8be2e4c39c215c7b390e"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.426,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b60d8"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.499,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b60f4"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 0,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b9406f809ab51e5f72087"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.399,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b941df809ab51e5f72097"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.574,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b962df809ab51e5f72189"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.454,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b96898ac472f50206b956"
+    }
+  },
+  {
+    "athleteName": "Chan Hiu Yan",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.521,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b96e08ac472f50206b98f"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 9,
+    "time12m": null,
+    "time": 6.78,
+    "missedCone": 0,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.78,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 5.78,
+    "missedCone": 0,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.78,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.809,
+    "missedCone": 0,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.809,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.64,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.84,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.926,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 7.126,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.771,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.971,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.524,
+    "missedCone": 2,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.924,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.926,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 7.126,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.524,
+    "missedCone": 2,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.924,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.809,
+    "missedCone": 0,
+    "kickedCone": 0,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.809,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.64,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.84,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": "2024-12-11T12:01:47.941Z",
+    "side": "L",
+    "step": 8,
+    "time": 6.771,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.971,
+    "notes": "",
+    "recordType": "Details"
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.967,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8bbae4c39c215c7b38f5"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.995,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8bfae4c39c215c7b391e"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.995,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b60be"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.967,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b60e8"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.871,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b9645f809ab51e5f7219c"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.924,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b96a48ac472f50206b96a"
+    }
+  },
+  {
+    "athleteName": "Liu Lok Yee",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.998,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b970a8ac472f50206b9b7"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-23T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.83,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.03,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "6761483eac1b599941826694"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-23T00:00:00.000Z"
+    },
+    "side": "L",
+    "step": 9,
+    "time12m": null,
+    "time": 5.89,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.29,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "67614868ac1b599941826698"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-23T00:00:00.000Z"
+    },
+    "side": "L",
+    "step": 9,
+    "time12m": null,
+    "time": 5.72,
+    "missedCone": 0,
+    "kickedCone": 4,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.52,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "67614879ac1b59994182669d"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.638,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.838,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "67614894ac1b5999418266a3"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.725,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.125,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "6761489bac1b5999418266aa"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.851,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.251,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676148a2ac1b5999418266b2"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.665,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.865,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676148a9ac1b5999418266bb"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.638,
+    "missedCone": 0,
+    "kickedCone": 1,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 5.838,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676148d5637c7d1b600dc6fd"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": null,
+    "time": 5.725,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.125,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676148d5637c7d1b600dc706"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-11-23T00:00:00.000Z"
+    },
+    "side": "L",
+    "step": 9,
+    "time12m": null,
+    "time": 5.89,
+    "missedCone": 0,
+    "kickedCone": 2,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 6.29,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676148d5637c7d1b600dc712"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.739,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8bd0e4c39c215c7b3902"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.684,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c11e4c39c215c7b392c"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.739,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b60cc"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T04:15:33.931Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.684,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b8c7c8f3cf1dbce0b6102"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.73,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b9669f809ab51e5f721ad"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "R",
+    "step": 8,
+    "time12m": 2.658,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b96cb8ac472f50206b97c"
+    }
+  },
+  {
+    "athleteName": "Ko Cheuk Ying",
+    "date": {
+      "$date": "2024-12-25T05:11:14.730Z"
+    },
+    "side": "L",
+    "step": 8,
+    "time12m": 2.998,
+    "time": null,
+    "missedCone": null,
+    "kickedCone": null,
+    "DQ": false,
+    "endLine": false,
+    "SSResult": 0,
+    "notes": "",
+    "recordType": "Details",
+    "_id": {
+      "$oid": "676b96fd8ac472f50206b9a2"
+    }
+  }
+]
