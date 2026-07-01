@@ -5,22 +5,27 @@ const path = require('path');
 const { Worker } = require('worker_threads');
 const connectDB = require('./conn.js');
 
-const { athletesRecordsModel, athletesInfoModel, speedSlalomRecordsModel,
+const { athletesAllRecordsModel, athletesInfoModel, speedSlalomRecordsModel,
   slideTricksModel, slideRecordsModel, locationInfoSchemaModel, RecordModeModel } = require('./models/schema.js');
 
 
 // Import the checkCPU function from the checkCPU.js file
-const { checkCPU, getCPUUsage } = require('./checkCPU.js');
+// const { checkCPU, getCPUUsage } = require('./checkCPU.js');
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001 || 6660;
+
+// const allowedOrigins = [
+//   'http://localhost:6660',
+//   'http://localhost:3001'
+// ];
 
 // add CORS middleware
 app.use(cors());
 app.use(express.json());
 
 app.use((req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:6660');
+  // res.setHeader('Access-Control-Allow-Origin', 'http://localhost:6660');
   res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
   next();
@@ -128,7 +133,7 @@ app.get('/api/athletes/count', async (req, res) => {
 // backend/server.js
 app.get('/api/getSSRecords', async (req, res) => {
   try {
-    const type = req.query.recordType;
+    const type = req.query.recordType || 'Normal';
     const records = await speedSlalomRecordsModel.find(
       {
         "recordType": type,
@@ -143,8 +148,8 @@ app.get('/api/getSSRecords', async (req, res) => {
     console.error(error);
     res.status(500).json({ message: 'Error fetching data' });
   }
-  checkCPU();
-  getCPUUsage();
+  // checkCPU();
+  // getCPUUsage();
 });
 
 // Get slide tricks

@@ -295,6 +295,7 @@ const SpeedSlalomRecord = () => {
     };
 
     return (
+
         <div className='main'>
             <button onClick={() => handleDisplayModeChange('Normal')}>Normal</button>
             <button onClick={() => handleDisplayModeChange('Details')}>Details Record</button>
@@ -366,7 +367,8 @@ const SpeedSlalomRecord = () => {
                             <span className="formLabel-Result col-sm-5 col-form-label">{SpeedSlalomBasic.SSResult}</span>
                         </div>
                     </form>
-                )}
+                )
+        }
 
                 {displayMode === 'Details' && (
                     <form className='form' onSubmit={handleDetailsSubmit}>
@@ -473,8 +475,8 @@ const SpeedSlalomRecord = () => {
                     </form>
                 )}
             </div >
-        </div >
-    );
+        </div>
+);
 }
 
 export default SpeedSlalomRecord;

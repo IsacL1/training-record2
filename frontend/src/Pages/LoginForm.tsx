@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "../Style/App.scss"
+// import "../Style/App.scss"
 
 interface LoginFormProps {
     onLogin: (phoneNumber: string, firstName: string) => void;

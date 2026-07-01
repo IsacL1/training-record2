@@ -170,7 +170,7 @@ const goalsSchema = new mongoose.Schema({
 
 
 // Record athletes' all training records
-const athletesRecordsSchema = new mongoose.Schema({
+const athletesAllRecordsSchema = new mongoose.Schema({
     athleteName: { type: String },
     date: { type: Date },
     side: { type: String, enum: ["L", "R"] },
@@ -201,7 +201,7 @@ const slideRecordsModel = mongoose.model('SlideRecords', slideRecordsSchema)
 const offSkateExerciseModel = mongoose.model('offSkateExercise', offSkateExerciseSchema)
 const goalsModel = mongoose.model('Goals', goalsSchema)
 const athletesCurrentAbilityValueModel = mongoose.model('AthletesCurrentAbilityValue', athletesCurrentAbilityValueSchema)
-const athletesRecordsModel = mongoose.model('Athletes', athletesRecordsSchema)
+const athletesAllRecordsModel = mongoose.model('AthletesAllRecords', athletesAllRecordsSchema)
 const locationInfoSchemaModel = mongoose.model('LocationInfo', locationInfoSchema)
 const RecordModeModel = mongoose.model('RecordMode', recordModeSchema)
 
@@ -210,7 +210,7 @@ module.exports = {
     classicSlalomTrickModel,
     slideTricksModel, slideRecordsModel,
     offSkateExerciseModel, goalsModel,
-    athletesCurrentAbilityValueModel, athletesRecordsModel,
+    athletesCurrentAbilityValueModel, athletesAllRecordsModel,
     speedSlalomRecordsModel, locationInfoSchemaModel,
     RecordModeModel
 }
